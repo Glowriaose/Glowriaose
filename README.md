@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Gloria
 
-<!--
-**Glowriaose/Glowriaose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** transitioning into **DevOps and Cloud Engineering**.
 
-Here are some ideas to get you started:
+- 🧠 Currently learning: CI/CD, Docker, Kubernetes, Linux, Bash, AWS
+- ⚙️ Focus areas: Infrastructure automation, system reliability, and scalable cloud systems
+- 💻 Background: React, Next.js, HTML, CSS, JavaScript, Wordpress
+- 📍 Based in Nigeria
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+- Build and deploy real-world DevOps pipelines
+- Gain certifications in Cloud (AWS and Azure)
+- Contribute to DevOps-related open source projects
+
+## 📫 Connect with me
+- [LinkedIn](https://linkedin.com/in/gloriaiseghehi)
+- [GitHub](https://github.com/glowriaose)
+- [Twitter](https://twitter.com/glowriaose)
+
