@@ -1,68 +1,40 @@
-# Profile.yaml
-user: Gloria_Iseghehi
-role: Cloud_Security_&_DevOps_Engineer
-focus: [Infrastructure_Security, IAM_Governance, Automation]
-
-stack:
-  current: [AWS, Azure, IAM, Entra_ID, Linux]
-  learning: [Terraform, Docker, Datadog, Networking]
-
-status:
-  - "Building_secure_architectures_one_VPC_at_a_time"
-  - "Hardening_Cloud_Environments_via_IAM_&_Security_Best_Practices"
-  - "Simulation_Complete: Cloud_Misconfiguration_to_Ransomware"
-# ☁️ Gloria Iseghehi | Cloud Security & DevOps Engineer
-> **Architecting secure, scalable, and resilient cloud ecosystems.**
+☁️ Gloria Iseghehi | Cloud Security & DevOps Engineer
+Architecting secure, scalable, and resilient cloud ecosystems.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Glowriaose&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gloria's Stats" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,kubernetes,linux,githubactions,notion&theme=dark" />
 </p>
 
----
+🛠️ Professional Focus
+Cloud Infrastructure: AWS & Azure Multi-cloud environments, Cloud Networking (VPC/VNet, DNS, Load Balancing).
 
-### 🛠️ Professional Focus
-* **Cloud Infrastructure:** AWS & Azure Multi-cloud environments, **Cloud Networking (VPC/VNet, DNS, Load Balancing)**.
-* **Identity & Security:** **IAM & Entra ID** governance, Zero-Trust, Risk Assessment, Threat Modeling, Remediation.
-* **DevOps & Automation:** CI/CD Pipelines, Infrastructure as Code (Terraform), Containerization.
-* **Observability:** Performance monitoring and threat detection using **Datadog** and GuardDuty.
----
+Identity & Security: IAM & Entra ID governance, Zero-Trust, Risk Assessment, Threat Modeling, Remediation.
 
+DevOps & Automation: CI/CD Pipelines, Infrastructure as Code (Terraform), Containerization.
 
-### 🚀 Core Tech Stack
+Observability: Performance monitoring and threat detection using Datadog and GuardDuty.
 
-**Cloud Platforms & Identity**
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-%23DD0031.svg?style=for-the-badge&logo=awslambda&logoColor=white)
+🚀 Core Tech Stack
+Cloud Platforms & Identity
 
-**DevOps & Infrastructure**
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CloudCode](https://img.shields.io/badge/CloudCode-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+DevOps & Infrastructure
 
-**Monitoring & OS**
-![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Monitoring & OS
 
----
+🛡️ Featured Project: Cloud Security Simulation
+Cloud Misconfiguration → Ransomware Path
 
-### 🛡️ Featured Project: Cloud Security Simulation
-**Cloud Misconfiguration → Ransomware Path**
-* **Challenge:** Analyzed an attack path involving exposed S3 buckets and IAM role escalation.
-* **Solution:** Designed a remediation architecture using AWS GuardDuty for real-time monitoring.
-* **Result:** Reduced detection time by 70% and implemented automated isolation protocols.
+Challenge: Analyzed an attack path involving exposed S3 buckets and IAM role escalation.
 
----
+Solution: Designed a remediation architecture using AWS GuardDuty for real-time monitoring.
 
-### 📊 GitHub Metrics
+Result: Reduced detection time by 70% and implemented automated isolation protocols.
+
+📊 GitHub Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Glowriaose&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Gloria's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glowriaose&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Glowriaose&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Gloria's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glowriaose&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
----
 
 ### 📫 Connect with me
  
