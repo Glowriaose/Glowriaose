@@ -14,6 +14,10 @@ status:
 # ☁️ Gloria Iseghehi | Cloud Security & DevOps Engineer
 > **Architecting secure, scalable, and resilient cloud ecosystems.**
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Glowriaose&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gloria's Stats" />
+</p>
+
 ---
 
 ### 🛠️ Professional Focus
