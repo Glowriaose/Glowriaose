@@ -1,4 +1,4 @@
-# ☁️ Gloria Iseghehi | Cloud & DevOps Architect
+# ☁️ Gloria Iseghehi | Cloud Security & DevOps Engineer
 > **Architecting secure, scalable, and resilient cloud ecosystems.**
 
 ---
