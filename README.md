@@ -1,3 +1,18 @@
+# Profile.yaml
+entity: Gloria_Iseghehi
+role: Lead_Architect
+specialization: [Cloud_Security, DevOps_Automation, IAM_Governance]
+
+infrastructure_stack:
+  cloud_platforms:
+    - AWS: [IAM, VPC, GuardDuty, CloudTrail, S3, EC2]
+    - Azure: [Entra_ID, VNet, Security_Center, RBAC]
+  networking: [DNS, Load_Balancing, Subnetting, Peering]
+  tools: [Terraform, Docker, Kubernetes, Datadog, CloudCode]
+
+status: 
+  current_focus: "Architecting_Resilient_Cloud_Systems"
+  learning: [Advanced_Azure_Security, Datadog_Observability]
 # ☁️ Gloria Iseghehi | Cloud Security & DevOps Engineer
 > **Architecting secure, scalable, and resilient cloud ecosystems.**
 
