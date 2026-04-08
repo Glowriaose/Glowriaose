@@ -62,6 +62,12 @@ I enjoy building resilient systems, improving infrastructure reliability, and so
   <img src="https://github-readme-stats.vercel.app/api?username=Glowriaose&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Gloria's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glowriaose&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Glowriaose&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glowriaose&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Glowriaose&theme=tokyonight&hide_border=true)
 
 ---
 
