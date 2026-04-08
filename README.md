@@ -58,11 +58,7 @@ I enjoy building resilient systems, improving infrastructure reliability, and so
 
 ### 📊 GitHub Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Glowriaose&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Glowriaose&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Glowriaose&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Gloria's Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glowriaose&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
 
 ---
 
