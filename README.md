@@ -1,3 +1,4 @@
+<meta name="trustpilot-one-time-domain-verification-id" content="a1a9bf72-e4fd-43a8-8218-15cb3f71673f"/>
 # ☁️ Gloria Iseghehi | Cloud Security & DevOps Engineer
 
 > **Architecting secure, scalable, and resilient cloud ecosystems.**
